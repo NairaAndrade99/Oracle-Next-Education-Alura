@@ -1,5 +1,7 @@
 ## Lógica de Programação com  JavaScript 
 
+![alt text](image.png)
+
 ### Imprimir meensagem na tela 
 ~~~javascript
 alert("Bem-vindo !");
@@ -38,4 +40,3 @@ if(numeroSecreto == numero){
 }
 ~~~
 
-![alt text](image.png)
